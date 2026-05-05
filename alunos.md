@@ -1,2 +1,10 @@
 Lista de alunos do 3° DS do Juvenal
-Enrico
+
+- Sara
+- Giovanna
+- Jullya - Amo passear
+- Danilo
+- Victoria Eduarda Vieira Nunes
+- Brayon
+- Higor Kauã Cardoso Machado
+- Enrico

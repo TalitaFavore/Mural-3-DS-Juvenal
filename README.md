@@ -21,8 +21,6 @@ Entre na pasta do projeto e crie uma branch exclusiva para a sua alteração:
 ```bash
 cd Mural-3-DS-Juvenal
 
-git init
-
 git switch -c add-nome-do-aluno
 ```
 

@@ -1,3 +1,9 @@
 Lista de alunos do 3° DS do Juvenal
 
-Nome: Higor Kauã Cardoso Machado
+- Sara
+- Giovanna
+- Jullya - Amo passear
+- Danilo
+- Victoria Eduarda Vieira Nunes
+- Brayon
+- Higor Kauã Cardoso Machado

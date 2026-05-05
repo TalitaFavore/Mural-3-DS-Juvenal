@@ -10,3 +10,4 @@ Lista de alunos do 3° DS do Juvenal
 - Enrico
 - RAFAEL - Gosto de música
 - Davi 
+- Victor Cesar

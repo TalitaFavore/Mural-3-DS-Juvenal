@@ -6,3 +6,4 @@ Lista de alunos do 3° DS do Juvenal
 - Danilo
 - Victoria Eduarda Vieira Nunes
 - Brayon
+- Higor Kauã Cardoso Machado

@@ -8,3 +8,4 @@ Lista de alunos do 3° DS do Juvenal
 - Brayon
 - Higor Kauã Cardoso Machado
 - Enrico
+- RAFAEL - Gosto de música

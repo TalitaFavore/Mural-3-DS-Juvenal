@@ -17,9 +17,9 @@ git clone https://github.com/seu-perfil/Mural-3-DS-Juvenal.git
 
 ### 3. Criar uma Nova Branch
 
-Entre na pasta do projeto e cria uma branch exclusiva para a sua alteração:
+Entre na pasta do projeto e crie uma branch exclusiva para a sua alteração:
 ```bash
-cd Mural-3-DS-Juvenal (ou o nome que você der pra essa pasta)
+cd Mural-3-DS-Juvenal
 
 git switch -c add-nome-do-aluno
 ```

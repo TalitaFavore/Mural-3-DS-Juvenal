@@ -1,2 +1,6 @@
 Lista de alunos do 3° DS do Juvenal
-Danilo
+
+- Sara
+- Giovanna
+- Jullya - Amo passear
+- Danilo

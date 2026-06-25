@@ -11,3 +11,4 @@ Lista de alunos do 3° DS do Juvenal
 - RAFAEL - Gosto de música
 - Davi 
 - Victor Cesar
+João Victor da Silva
